@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina.7.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataSamples.Core/ModelServices/ItemRepository.cs">
+    <Files>
+      <File FileName="DataSamples.iOS/ViewControllers/BatchUpdateViewController.cs" Line="1" Column="1" />
+      <File FileName="DataSamples.Core/ViewModels/EditableListViewModel.cs" Line="1" Column="1" />
+      <File FileName="DataSamples.iOS/Views/TextboxTableCell.cs" Line="1" Column="1" />
+      <File FileName="DataSamples.Core/BindingProviders/EditableListBindingProvider.cs" Line="1" Column="1" />
+      <File FileName="DataSamples.Core/ModelServices/ItemRepository.cs" Line="123" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Users/nicholaslie/Documents/hpv-tfs12/ComponentProjects/Releases/TemplatesSource/Crosslight/CrosslightBusinessApp/Users/jimmypetrus/Projects/hpv-tfs12/Intersoft.Crosslight/Intersoft.Crosslight.iOS/DataSource/ObservableTableSource.cs" line="672" offsetX="735" offsetY="11407" expression="indexPath" liveUpdate="False" />
+    <Watch file="Users/nicholaslie/Documents/hpv-tfs12/ComponentProjects/Releases/TemplatesSource/Crosslight/CrosslightBusinessApp/Users/jimmypetrus/Projects/hpv-tfs12/Intersoft.Crosslight.Samples/MyInventory/MyInventory.iOS/ViewControllers/ItemCollectionViewController.cs" line="20" offsetX="642" offsetY="287" expression="NSBundle.MainBundle" liveUpdate="False" />
+    <Watch file="Users/nicholaslie/Documents/hpv-tfs12/ComponentProjects/Releases/hpv-tfs12/Crosslight/Intersoft.Crosslight.iOS/ViewControllers/UITableViewControllerBase.cs" line="918" offsetX="459" offsetY="16506" expression="animated" liveUpdate="False" />
+    <Watch file="Users/nicholaslie/Documents/hpv-tfs12/ComponentProjects/Crosslight/Intersoft.AppFramework/Users.Infrastructure/WebApiAccountService.cs" line="175" offsetX="615" offsetY="2610" expression="userService" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
